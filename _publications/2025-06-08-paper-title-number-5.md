@@ -1,13 +1,13 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: "Compilation of SQL Queries for Efficient Distributed In-Memory Processing"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+permalink: /publication/2024-09-11-paper-title-number-4
+excerpt: 'This paper is about distributed query processing of compiled query'
+date: 2023-09-11
+venue: 'Proceedings of the 33rd Annual International Conference on Computer Science and Software Engineering (CASCON 23)'
+paperurl: 'https://dl.acm.org/doi/abs/10.5555/3615924.3615940'
+citation: 'Chatterjee, Sudip, et al. "Compilation of SQL Queries for Efficient Distributed In-Memory Processing." Proceedings of the 33rd Annual International Conference on Computer Science and Software Engineering. 2023.'
 ---
 
 Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.

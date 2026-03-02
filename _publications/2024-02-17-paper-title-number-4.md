@@ -1,12 +1,12 @@
 ---
-title: "Paper Title Number 4"
+title: "CAMEL Hash Table: striking a balance between CPU and memory efficiency in main-memory hash join"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
+permalink: /publication/2026-03-24-paper-title-number-4
+excerpt: 'This paper is about hash table that balance between CPU and memory efficiency for main-memory hash join.'
+date: 2026-03-24
+venue: 'EDBT/ICDT 2026 Joint Conference'
+paperurl: 'https://openproceedings.org/2026/conf/edbt/paper-78.pdf'
 citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
