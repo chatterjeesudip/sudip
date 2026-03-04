@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Asistant (CS2383)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+date: Fall 2022
+location: "Fredericton, Canada"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+CS2383: Data Structures and Algorithms
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+As a TA for CS2383 at UNB, I led weekly tutorials and office hours to help students implement complex data structures and algorithms in Java. I was responsible for grading programming assignments and theory exercises, with a focus on evaluating code efficiency and the accuracy of $O(n)$ complexity analysis. By providing hands-on debugging support and clarifying abstract concepts, I helped students bridge the gap between lecture theory and practical software development.
