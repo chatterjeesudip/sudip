@@ -3,7 +3,7 @@ title: "Teaching Asistant (CS2383)"
 collection: teaching
 type: "Undergraduate course"
 # permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+venue: "University of New Brunswick, Faculty of Computer Science"
 date: 2022-09-01
 location: "Fredericton, Canada"
 ---
