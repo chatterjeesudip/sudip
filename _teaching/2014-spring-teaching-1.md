@@ -8,6 +8,6 @@ date: Fall 2022
 location: "Fredericton, Canada"
 ---
 
-CS2383: Data Structures and Algorithms
+As a TA for CS2383 at UNB, I led weekly tutorials and office hours to help students implement complex data structures and algorithms in Java. I was responsible for grading programming assignments and theory exercises, with a focus on evaluating code efficiency and the accuracy of Big(O) complexity analysis. By providing hands-on debugging support and clarifying abstract concepts, I helped students bridge the gap between lecture theory and practical software development.
 
-As a TA for CS2383 at UNB, I led weekly tutorials and office hours to help students implement complex data structures and algorithms in Java. I was responsible for grading programming assignments and theory exercises, with a focus on evaluating code efficiency and the accuracy of $O(n)$ complexity analysis. By providing hands-on debugging support and clarifying abstract concepts, I helped students bridge the gap between lecture theory and practical software development.
+
